@@ -4,4 +4,10 @@
 
 
 
+
+
+
+
+
+
 ![sum](https://github.com/inayatph/Text-Summarizer/assets/164138014/9d660e9f-b2e7-440d-8784-be05ea769010)
